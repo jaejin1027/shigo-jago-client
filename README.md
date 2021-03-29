@@ -2,8 +2,7 @@
 
 <img src=https://images.velog.io/images/unow30/post/afbafee0-755e-4f7a-ad94-d829525a0fd2/sgjg.5d67b1ad.png width=300 height=300 />
 
-✅
-**_Shigo_Jago_**에서는 복잡하고 어렵기만 했던 온라인 호텔 예약을 쉽고 간단하게 만들어 드립니다. 클릭 한번으로 다양한 호텔, 숙박 상품을 확인하실 수 있습니다.
+✅ **_Shigo_Jago_** 에서는 복잡하고 어렵기만 했던 온라인 호텔 예약을 쉽고 간단하게 만들어 드립니다. 클릭 한번으로 다양한 호텔, 숙박 상품을 확인하실 수 있습니다.
 **_Shigo_Jago_** 를 찾아주세요~
 
 - 클라이언트 : <a href="https://github.com/codestates/shigo-jago-client">https://github.com/codestates/shigo-jago-client</a>
